@@ -528,3 +528,8 @@ footer
         font-size: 24px;
     }
 }
+
+/* Newly Added */
+.service-section{
+    display: flex;
+}
