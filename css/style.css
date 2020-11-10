@@ -510,10 +510,6 @@ footer
     border: 0px;
     border-bottom: 1px solid #fff;
     }
-    .service-info{
-        margin-top: 20px;
-        margin-bottom: 0px;
-    }
     .caption h3 {
     font-size: 14px;
     }
@@ -529,7 +525,3 @@ footer
     }
 }
 
-/* Newly Added */
-.service-section{
-    display: flex;
-}
